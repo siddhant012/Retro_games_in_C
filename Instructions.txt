@@ -1,0 +1,9 @@
+Many of these codes are incomplete and require further work to be done.I built these for fun as a freshman in 
+computer science.Now these codes serve no purpose and I am not willing to devote time to improve/complete these codes.
+
+I'm posting these on github for anyone who might wanna use this for their school/college projects.
+Feel free to contact me if you want some help with these codes.
+
+1.The only requirement is to include the graphics.h file.
+2.Each game folder has 2 files : the .cpp file and the .exe file. You can directly run the game using the .exe file.
+3.Although the codes have c syntax , they have .cpp extension because the graphics.h file was developed for .cpp and not .c files. 
